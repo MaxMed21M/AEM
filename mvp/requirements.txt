@@ -5,3 +5,11 @@ streamlit==1.39.0
 httpx==0.27.2
 jsonschema==4.23.0
 typing_extensions>=4.8.0
+orjson==3.10.7
+python-dotenv==1.0.1
+openai==0.28.0
+pytest==8.3.3
+# Extras opcionais para recursos avançados
+# PyMuPDF==1.24.9
+# pytesseract==0.3.10
+# pillow==10.4.0
